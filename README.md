@@ -36,7 +36,7 @@ This project is an end-to-end data analysis case study completed as part of the 
 
 ## Author
 
-**Gooty Roshan Zameer**
+**NEETU K.R**
 
 **Data Analyst Course – Week 4 Capstone Project**
 
